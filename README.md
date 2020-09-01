@@ -7,6 +7,6 @@ Department of Production and Systems, fourth year student
 
 - currently working on [Fuller, inc.](https://fuller-inc.com/)
 
-- Learning: React, TypeScript, Kotlin
+- Learning: React, TypeScript ...
 
 - ポートフォリオサイトは作成中...
