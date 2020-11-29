@@ -7,6 +7,4 @@ Department of Production and Systems, fourth year student
 
 - currently working on [Fuller, inc.](https://fuller-inc.com/)
 
-- Learning: React, TypeScript ...
 
-- https://mypage.saitoshun1018.vercel.app/
