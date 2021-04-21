@@ -8,3 +8,5 @@
 
 - a little... React, Next.js....
 
+- My account has a lot of private repositories, so it's not very interesting.
+
